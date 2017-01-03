@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "In love with Nancy", "In love with Nancy\In love with Nancy.fsproj", "{DCDB9CE7-2144-4000-9211-BFA5BA1A569D}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ConsoleRun", "ConsoleRun\ConsoleRun.fsproj", "{B1957D49-6A6A-4BB8-8B57-6D7B2E822BB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCDB9CE7-2144-4000-9211-BFA5BA1A569D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCDB9CE7-2144-4000-9211-BFA5BA1A569D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCDB9CE7-2144-4000-9211-BFA5BA1A569D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCDB9CE7-2144-4000-9211-BFA5BA1A569D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1957D49-6A6A-4BB8-8B57-6D7B2E822BB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1957D49-6A6A-4BB8-8B57-6D7B2E822BB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1957D49-6A6A-4BB8-8B57-6D7B2E822BB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1957D49-6A6A-4BB8-8B57-6D7B2E822BB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
